@@ -30,12 +30,12 @@
             />
 
         <ImageView
+            android:id="@+id/imgShare"
             android:layout_width="30dp"
             android:layout_height="match_parent"
-        android:id="@+id/imgShare"
             android:layout_gravity="center"
-            android:tint=" #eeeeee"
-            />
+            android:background="?attr/actionModeShareDrawable"
+            android:tint=" #eeeeee" />
 
 
 
